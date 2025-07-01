@@ -9,3 +9,4 @@ Agregar nuevas tareas
 
 git clone: https://github.com/Gabbaromero/Gestionador_de_tareas
 
+pip install -r requirements.txt
