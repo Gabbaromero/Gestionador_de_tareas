@@ -2,7 +2,7 @@
 Gestor de tareas
 
 Este programa tiene como caracteristicas: 
-Agregar nuevas tareas
+- Agregar nuevas tareas
 - Marcar tareas como completadas
 - Eliminar tareas
 - Registrar las acciones realizadas en un archivo de logs
