@@ -8,4 +8,4 @@ Agregar nuevas tareas
 - Registrar las acciones realizadas en un archivo de logs
 
 git clone: https://github.com/Gabbaromero/Gestionador_de_tareas
-pip install -r requirements.txt
+
